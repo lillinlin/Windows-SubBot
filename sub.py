@@ -9,7 +9,7 @@ import json
 import random
 
 # === 配置部分 ===
-sub_url = "https://xxx"  # 替换为你的订阅链接
+sub_url = "https://"  # 替换为你的订阅链接
 old_tags_file = "tags.txt"
 
 # 推荐配置（可按需调整）
